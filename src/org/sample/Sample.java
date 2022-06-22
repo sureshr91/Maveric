@@ -13,11 +13,15 @@ public class Sample {
 	private void SampleThree() {
 		System.out.println("Sample_Three");
 
-	}private void SampleFour() {
+	}
+	private void SampleFour() {
 		System.out.println("Sample_Four");
 
 	}
-	
-	
+    private void SampleFive() {
+		System.out.println("Sample_Five");
+
+	}
+
 
 }
