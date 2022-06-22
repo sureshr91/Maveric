@@ -14,5 +14,9 @@ public class Sample {
 		System.out.println("Sample_Three");
 
 	}
+	private void SampleFive() {
+		System.out.println("Sample_Five");
+
+	}
 
 }
