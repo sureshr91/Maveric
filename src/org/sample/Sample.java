@@ -13,6 +13,11 @@ public class Sample {
 	private void SampleThree() {
 		System.out.println("Sample_Three");
 
+	}private void SampleFour() {
+		System.out.println("Sample_Four");
+
 	}
+	
+	
 
 }
