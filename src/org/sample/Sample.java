@@ -14,9 +14,14 @@ public class Sample {
 		System.out.println("Sample_Three");
 
 	}
-	private void SampleFive() {
+	private void SampleFour() {
+		System.out.println("Sample_Four");
+
+	}
+    private void SampleFive() {
 		System.out.println("Sample_Five");
 
 	}
+
 
 }
